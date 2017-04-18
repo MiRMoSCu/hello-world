@@ -6,3 +6,5 @@ Esta es una modificacion desde github.com
 Esta es una segunda modificacion para trabajar con SmartGit
 20170418 17.03
 Esta es una modificacion desde SmartGit
+20170418 17:05
+Modificado desde github.com
