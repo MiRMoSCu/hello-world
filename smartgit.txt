@@ -4,3 +4,5 @@ Este es un archivo de prueba creado en linux y colocado en el repositorio con Sm
 Esta es una modificacion desde github.com
 20170418 16:56
 Esta es una segunda modificacion para trabajar con SmartGit
+20170418 17.03
+Esta es una modificacion desde SmartGit
