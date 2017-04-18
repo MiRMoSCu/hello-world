@@ -1,0 +1,2 @@
+20170418
+Este es un archivo de prueba creado en linux y colocado en el repositorio con SmartGit
