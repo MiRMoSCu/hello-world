@@ -14,3 +14,5 @@ Modificado desde SmartGit
 Retomando smartgit; descubriendo su manejo
 20170522 16:41 - smartgit
 realizando una actualizacion para ver el comportamiento de smartgit
+actualizacion 2
+
