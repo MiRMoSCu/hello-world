@@ -16,3 +16,6 @@ Retomando smartgit; descubriendo su manejo
 realizando una actualizacion para ver el comportamiento de smartgit
 actualizacion 2
 
+
+# RETOMANDO SmartGit
+Esta es una modificacion que será hecha commit local y despues push con smartgit
